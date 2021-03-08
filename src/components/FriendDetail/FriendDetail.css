@@ -1,0 +1,7 @@
+.detailBox{
+    box-shadow: 2px 2px 4px gray;
+    width:600px;
+    padding:30px;
+    margin:auto;
+    margin-top:200px;
+}
